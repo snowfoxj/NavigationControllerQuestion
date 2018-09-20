@@ -8,6 +8,7 @@
 
 import UIKit
 
+// 干支詳細画面
 class ViewController: UIViewController {
 
     var item:Item? = nil
