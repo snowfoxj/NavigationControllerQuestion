@@ -61,11 +61,11 @@
 				CEE1A1912151E42A00D23A9A /* AppDelegate.swift */,
 				CEE1A1932151E42A00D23A9A /* ViewController.swift */,
 				CEE1A1A52151E56300D23A9A /* TableViewController.swift */,
+				CEE1A1A32151E4C500D23A9A /* Item.swift */,
 				CEE1A1952151E42A00D23A9A /* Main.storyboard */,
 				CEE1A1982151E42E00D23A9A /* Assets.xcassets */,
 				CEE1A19A2151E42E00D23A9A /* LaunchScreen.storyboard */,
 				CEE1A19D2151E42E00D23A9A /* Info.plist */,
-				CEE1A1A32151E4C500D23A9A /* Item.swift */,
 			);
 			path = NavigationControllerQuestion;
 			sourceTree = "<group>";
